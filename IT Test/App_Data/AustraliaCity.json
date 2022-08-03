@@ -1,0 +1,1434 @@
+[
+ {
+  "city": "Sydney",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Melbourne",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Brisbane",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Perth",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Adelaide",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Canberra",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Gold Coast",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cranbourne",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Newcastle",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wollongong",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Geelong",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Hobart",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Townsville",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ipswich",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cairns",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Darwin",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Toowoomba",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ballarat",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Caloundra",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Campbelltown",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Leopold",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Corinda",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bendigo",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Launceston",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mackay",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Rockhampton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Maitland",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bunbury",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Coffs Harbour",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bundaberg",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wagga Wagga",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Hervey Bay",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Shepparton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Albury",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Port Macquarie",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Pakenham",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Tamworth",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Orange",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Dubbo",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bathurst",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Geraldton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Sunbury",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Nowra",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Frankston",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Warrnambool",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Queanbeyan",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wodonga",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Albany",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Gladstone",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mildura",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Southport",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Dandenong",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Alice Springs",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mount Gambier",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kalgoorlie",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Lismore",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Quakers Hill",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ballina",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Taree",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Gawler",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Maryborough",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Caboolture",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Traralgon",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Armidale",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Busselton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Goulburn",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cessnock",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Devonport",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Whyalla",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bacchus Marsh",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Gympie",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Griffith",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Grafton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kwinana",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Burnie",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Yeppoon",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wangaratta",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mount Eliza",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Murray Bridge",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Narangba",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mount Isa",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Broken Hill",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Banora Point",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Nerang",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Lara",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Horsham",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mount Barker",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Port Lincoln",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Karratha",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Singleton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Warwick",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Echuca",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ulladulla",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kempsey",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ulverstone",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Barwon Heads",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Australind",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Sale",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Rochedale",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Port Pirie",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Morwell",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Warragul",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Broome",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Port Augusta",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Penrith",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Forster",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Goonellabah",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Port Hedland",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Torquay",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Emerald",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Gisborne",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Lithgow",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Rutherford",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bowral",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Jimboomba",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Colac",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Dalby",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Raymond Terrace",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Esperance",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Muswellbrook",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Nelson Bay",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Inverell",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Parkes",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Drouin",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Swan Hill",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Nambour",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Somerville",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kingston",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Casino",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mudgee",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mareeba",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Batemans Bay",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Gracemere",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Samford",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Portland",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Young",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kingaroy",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kangaroo Flat",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mount Evelyn",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bentley",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cowra",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Hamilton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bowen",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Andergrove",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Moree",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Gunnedah",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Leeton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mittagong",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Tweed Heads",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Benalla",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Emu Plains",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wallan",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Currumbin",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bli Bli",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Moss Vale",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Clifton Springs",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Katoomba",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wollert",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kelso",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Merrimac",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ayr",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ararat",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Charters Towers",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Rye",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Moe",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Deniliquin",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Darley",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Moranbah",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Forbes",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Maryborough",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Springwood",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Highfields",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Innisfail",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mooroopna",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Narrabri",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kingscliff",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Lesmurdie",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kilmore",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Yarrawonga",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bargara",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kiama",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bongaree",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Sanctuary Point",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kyabram",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Healesville",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Melton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Burpengary",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Narre Warren North",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mandurah",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kyneton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Fremantle",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Collie",
+  "countrycode": "AU"
+ },
+ {
+  "city": "North Tamborine",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Murwillumbah",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cootamundra",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bairnsdale",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Urraween",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Castlemaine",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Blaxland",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Lennox Head",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bomaderry",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Atherton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Tuncurry",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Strathalbyn",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Seymour",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cannington",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wauchope",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Helensburgh",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Yass",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Gatton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kurri Kurri",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cooma",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Nuriootpa",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Tumut",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cannonvale",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Point Vernon",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Nambucca Heads",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wynyard",
+  "countrycode": "AU"
+ },
+ {
+  "city": "North Mackay",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Roma",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Stawell",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Beerwah",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Northam",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mount Cotton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Alstonville",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Margaret River",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Glen Innes",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Yamba",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Waterford",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Gordonvale",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kiama Downs",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Pottsville",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Chinchilla",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Lysterfield",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cooranbong",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wentworth Falls",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Scone",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Beaudesert",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Dromana",
+  "countrycode": "AU"
+ },
+ {
+  "city": "South Grafton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kununurra",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Naracoorte",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Corowa",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Woolgoolga",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Goondiwindi",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cobram",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Maffra",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Tahmoor",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Woodend",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Inverloch",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Whittlesea",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Emerald",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Richmond",
+  "countrycode": "AU"
+ },
+ {
+  "city": "New Norfolk",
+  "countrycode": "AU"
+ },
+ {
+  "city": "East Ballina",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Biloela",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Worragee",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wingham",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Leongatha",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Palmwoods",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Dunsborough",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Irymple",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Red Cliffs",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bannockburn",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Glenbrook",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Smithfield Heights",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Sarina",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Byron Bay",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wonthaggi",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ocean Shores",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Berri",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Howard Springs",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Tannum Sands",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Victor Harbor",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ingham",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Manjimup",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Carnarvon",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Smithton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Narrogin",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Newman",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Merimbula",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Katanning",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Weipa",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wallaroo",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Central Coast",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Proserpine",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Port Douglas",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Clare",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Tom Price",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Charleville",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cloncurry",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bordertown",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Longreach",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Merredin",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Scottsdale",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bourke",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Exmouth",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Queenstown",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mount Barker",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wagin",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kingston South East",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Tumby Bay",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kalbarri",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Port Denison",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Penola",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Streaky Bay",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Halls Creek",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Peterborough",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ouyen",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Katherine",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Barcaldine",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Cowell",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Meningie",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Hughenden",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Meekatharra",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Yulara",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wyndham",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Roebourne",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bicheno",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Winton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Oatlands",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Leonora",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Gingin",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Wilcannia",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Onslow",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Laverton",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Morawa",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Southern Cross",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Norseman",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ravensthorpe",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Eidsvold",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Pannawonica",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kimba",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Mount Magnet",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Three Springs",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Theodore",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Karumba",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Richmond",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Andamooka",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Georgetown",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Boulia",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Adelaide River",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Burketown",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ivanhoe",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Thargomindah",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Pine Creek",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Camooweal",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Birdsville",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bedourie",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Windorah",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Kingoonya",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Yanchep",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Stanthorpe",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Bullsbrook",
+  "countrycode": "AU"
+ },
+ {
+  "city": "McMinns Lagoon",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Ceduna",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Quilpie",
+  "countrycode": "AU"
+ },
+ {
+  "city": "Woomera",
+  "countrycode": "AU"
+ }
+]

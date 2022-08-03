@@ -1,0 +1,259 @@
+Q:\ITInterview\Junior\IT Test\IT Test\bin\IT Test.dll.config
+Q:\ITInterview\Junior\IT Test\IT Test\bin\IT Test.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\IT Test.pdb
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\csc.exe
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\csc.exe.config
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\csc.rsp
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\csi.exe
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\csi.exe.config
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\csi.rsp
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.CSharp.Core.targets
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.Managed.Core.targets
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\Microsoft.Win32.Primitives.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.AppContext.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Collections.Immutable.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Console.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Globalization.Calendars.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.IO.Compression.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.IO.Compression.ZipFile.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.IO.FileSystem.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Net.Http.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Net.Sockets.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Reflection.Metadata.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.ValueTuple.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Xml.ReaderWriter.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Xml.XmlDocument.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Xml.XPath.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\vbc.exe
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\vbc.exe.config
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\vbc.rsp
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\VBCSCompiler.exe
+Q:\ITInterview\Junior\IT Test\IT Test\bin\roslyn\VBCSCompiler.exe.config
+Q:\ITInterview\Junior\IT Test\IT Test\bin\Antlr3.Runtime.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\Microsoft.Web.Infrastructure.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\Newtonsoft.Json.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.Helpers.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.Mvc.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.Optimization.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.Razor.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.WebPages.Deployment.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.WebPages.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.WebPages.Razor.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\WebGrease.dll
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.Helpers.xml
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.Mvc.xml
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.Optimization.xml
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.Razor.xml
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.WebPages.xml
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.WebPages.Deployment.xml
+Q:\ITInterview\Junior\IT Test\IT Test\bin\System.Web.WebPages.Razor.xml
+Q:\ITInterview\Junior\IT Test\IT Test\bin\Newtonsoft.Json.xml
+Q:\ITInterview\Junior\IT Test\IT Test\bin\Antlr3.Runtime.pdb
+Q:\ITInterview\Junior\IT Test\IT Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Q:\ITInterview\Junior\IT Test\IT Test\obj\Debug\IT Test.csprojAssemblyReference.cache
+Q:\ITInterview\Junior\IT Test\IT Test\obj\Debug\IT Test.csproj.CoreCompileInputs.cache
+Q:\ITInterview\Junior\IT Test\IT Test\obj\Debug\IT Test.csproj.CopyComplete
+Q:\ITInterview\Junior\IT Test\IT Test\obj\Debug\IT Test.dll
+Q:\ITInterview\Junior\IT Test\IT Test\obj\Debug\IT Test.pdb
+C:\Users\demo\Desktop\Test\IT Test\bin\IT Test.dll.config
+C:\Users\demo\Desktop\Test\IT Test\bin\IT Test.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\IT Test.pdb
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\csc.exe
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\csc.exe.config
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\csc.rsp
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\csi.exe
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\csi.exe.config
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\csi.rsp
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.AppContext.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Console.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.IO.Compression.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Net.Http.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Net.Sockets.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.ValueTuple.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\vbc.exe
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\vbc.exe.config
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\vbc.rsp
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\VBCSCompiler.exe
+C:\Users\demo\Desktop\Test\IT Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\demo\Desktop\Test\IT Test\bin\Antlr3.Runtime.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\Newtonsoft.Json.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.Helpers.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.Mvc.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.Optimization.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.Razor.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.WebPages.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\WebGrease.dll
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.Helpers.xml
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.Mvc.xml
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.Optimization.xml
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.Razor.xml
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.WebPages.xml
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\demo\Desktop\Test\IT Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\demo\Desktop\Test\IT Test\bin\Newtonsoft.Json.xml
+C:\Users\demo\Desktop\Test\IT Test\bin\Antlr3.Runtime.pdb
+C:\Users\demo\Desktop\Test\IT Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\demo\Desktop\Test\IT Test\obj\Debug\IT Test.csproj.AssemblyReference.cache
+C:\Users\demo\Desktop\Test\IT Test\obj\Debug\IT Test.csproj.CoreCompileInputs.cache
+C:\Users\demo\Desktop\Test\IT Test\obj\Debug\IT Test.csproj.CopyComplete
+C:\Users\demo\Desktop\Test\IT Test\obj\Debug\IT Test.dll
+C:\Users\demo\Desktop\Test\IT Test\obj\Debug\IT Test.pdb
+C:\Users\pavan\Downloads\Test\IT Test\bin\IT Test.dll.config
+C:\Users\pavan\Downloads\Test\IT Test\bin\IT Test.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\IT Test.pdb
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\csc.exe
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\csc.exe.config
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\csc.rsp
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\csi.exe
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\csi.exe.config
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\csi.rsp
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.AppContext.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Console.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.IO.Compression.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Net.Http.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.ValueTuple.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\vbc.exe
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\vbc.exe.config
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\vbc.rsp
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\VBCSCompiler.exe
+C:\Users\pavan\Downloads\Test\IT Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pavan\Downloads\Test\IT Test\bin\Antlr3.Runtime.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\Newtonsoft.Json.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Buffers.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Memory.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Numerics.Vectors.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Text.Encodings.Web.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.Helpers.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.Mvc.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.Optimization.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.Razor.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.WebPages.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\WebGrease.dll
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Buffers.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Memory.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Numerics.Vectors.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Text.Encodings.Web.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.Helpers.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.Mvc.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.Optimization.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.Razor.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.WebPages.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\Newtonsoft.Json.xml
+C:\Users\pavan\Downloads\Test\IT Test\bin\Antlr3.Runtime.pdb
+C:\Users\pavan\Downloads\Test\IT Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pavan\Downloads\Test\IT Test\obj\Debug\IT Test.csproj.AssemblyReference.cache
+C:\Users\pavan\Downloads\Test\IT Test\obj\Debug\IT Test.csproj.CoreCompileInputs.cache
+C:\Users\pavan\Downloads\Test\IT Test\obj\Debug\IT Test.csproj.CopyComplete
+C:\Users\pavan\Downloads\Test\IT Test\obj\Debug\IT Test.dll
+C:\Users\pavan\Downloads\Test\IT Test\obj\Debug\IT Test.pdb

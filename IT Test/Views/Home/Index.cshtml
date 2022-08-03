@@ -1,0 +1,267 @@
+﻿
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="container-fluid px-1 px-sm-3 py-5 mx-auto">
+    <div class="row d-flex justify-content-center">
+        <div class="row card0">
+            <div class="card1 col-lg-8 col-md-7">
+                <div class="text-center">
+                    <img class="image mt-5" src="https://i.imgur.com/M8VyA2h.png">
+                </div>
+                <div class="row px-3 mt-3 mb-3">
+
+                    <h1 class="large-font mr-3">
+                        <span id="temperature">0</span>&#176;
+                        <img id="cloudIcon" src="http://openweathermap.org/img/w/10d.png" alt="Weather icon" />
+                    </h1>
+
+                    <div class="d-flex flex-column mr-3">
+                        <h2 class="mt-3 mb-0"><span id="city"></span> , <span id="country"></span></h2>
+                        <small><span id="time"></span> - <span id="dayname"></span></small>
+                    </div>
+
+                    <div class="d-flex flex-column text-center">
+                        <h3 class="fa fa-sun-o mt-4"></h3>
+                        <p><span id="description"></span></p>
+                    </div>
+
+                </div>
+            </div>
+            <div class="card2 col-lg-4 col-md-5">
+                <div>
+                    <input type="text" id="cityName" name="cityName" placeholder="Search city name" class="mb-5">
+                    <svg style="cursor:pointer" id="submit" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                    </svg>
+
+                </div>
+                <div class="mr-5">
+
+                    <div style="margin-top:10px" class="line "></div>
+                    <p style="margin-top:10px; color:yellow; font-size:12px" id="errorMessage"></p>
+
+                    <p style="margin-top:10px">Weather Details</p>
+                    <div>
+                        <p class="light-text">Cloudy</p>
+                        <p class="ml-auto"><span id="cloudy"></span>%</p>
+                    </div>
+                    <div>
+                        <p class="light-text">Humidity</p>
+                        <p class="ml-auto"><span id="humidity"></span>%</p>
+                    </div>
+                    <div>
+                        <p class="light-text">Wind</p>
+                        <p class="ml-auto"><span id="wind"></span> km/h</p>
+                    </div>
+                    <div>
+                        <p class="light-text">Temperature minimum</p>
+                        <p class="ml-auto"><span id="tempMin">0</span>&#176;</p>
+                    </div>
+                    <div>
+                        <p class="light-text">Temperature maximum</p>
+                        <p class="ml-auto"><span id="tempMax">0</span>&#176;</p>
+                    </div>
+
+                    <div class="line mt-3"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" language="javascript">
+
+    //On submit button pressed
+    $(document).ready(function () {
+        var initialValue = "north sydney"; //default value
+        $('#cityName').val(initialValue);
+        getWeatherData(initialValue);
+
+        $("#submit").click(function () {
+            var inputValue = $('#cityName').val();
+            getWeatherData(inputValue);
+        });
+
+
+        //Enter key event listener for search box input field
+        $('#cityName').keypress(function (event) {
+            var keycode = (event.keyCode ? event.keyCode : event.which);
+            if (keycode == '13') {
+                var inputValue = $('#cityName').val();
+                getWeatherData(inputValue);
+            }
+        });
+
+    });
+
+    //Gets weather data from API
+    function getWeatherData(cityName) {
+
+        var url = "https://localhost:44396/Home/search?cityName=" + cityName;
+        $.get(url, function (data, status) {
+            if (data?.statusCode === 400) {
+                $("#errorMessage").html(data.errorDescrption + " &#x1F612;");
+            }
+            else {
+                $("#errorMessage").html("");
+                setWeatherData(data);
+            }
+           
+            
+        });
+    }
+
+    // sets weather data
+    function setWeatherData(response) {
+        let icon = response.weather[0].icon;
+        setDayTime(response.dt);
+        let city = response.name;
+        let country = response.sys.country;
+        let description = response.weather[0].description;
+        let icon_url =
+            "https://openweathermap.org/img/wn/" + icon + "@@2x.png";
+        let temperature = (response.main.temp - 273.15).toFixed(1);
+        let temp_min = (response.main.temp_min - 273.15).toFixed(1);
+        let temp_max = (response.main.temp_max - 273.15).toFixed(1);
+        let humidity = response.main.humidity;
+        let wind = response.wind.speed;
+        let cloudy = response.clouds.all;
+
+
+        $("#temperature").text(temperature);
+        $("#city").text(city);
+        $("#country").text(country);
+        $("#tempMin").text(temp_min);
+        $("#tempMax").text(temp_max);
+        $("#humidity").text(humidity);
+        $("#wind").text(wind);
+        $("#description").text(description);
+        $("#cloudy").text(cloudy);
+        $("#cloudIcon").attr("src", icon_url);
+    }
+
+    //Sets time and day
+    function setDayTime(dt_in_seconds) {
+        let days = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
+        let date = new Date(dt_in_seconds * 1000);
+        let hours = date.getHours() > 12 ? date.getHours() - 12 : date.getHours();
+        let minutes =
+            date.getMinutes() < 10
+                ? "0" + date.getMinutes().toString()
+                : date.getMinutes();
+        let pmam = date.getHours() > 12 ? "PM" : "AM";
+        hours = hours < 10 ? "0" + hours.toString() : hours;
+        let dayname = days[date.getDay()];
+        let time = hours + ":" + minutes + " " + pmam;
+
+        $("#dayname").text(dayname);
+        $("#time").text(time);
+    }
+
+
+    //function GetCityLatitudeLongitude() {
+    //    //Write your code here
+    //}
+    //function GetCityWeatherByLatitudeLongitude(latitude, longitude) {
+    //    //Write your code here
+    //}
+</script>
+
+<style>
+    body {
+        color: #fff !important;
+        overflow-x: hidden !important;
+        height: 100% !important;
+        background-image: linear-gradient(#81D4FA, #2196F3) !important;
+        background-repeat: no-repeat !important;
+    }
+
+    .card0 {
+        width: 94%;
+    }
+
+    .card1 {
+        background-image: linear-gradient(#2196F3, #81D4FA) !important;
+        padding: 30px 20px 30px 50px !important;
+    }
+
+    .image {
+        width: 300px !important;
+        height: 300px !important;
+    }
+
+    .large-font {
+        font-size: 70px;
+        font-family: Arial;
+    }
+
+    .fa-sun-o {
+        font-size: 22px;
+    }
+
+    .card2 {
+        background-color: #607D8B;
+        padding: 0px 0px 40px 40px;
+    }
+
+    input {
+        background-color: #607D8B !important;
+        padding: 24px 0px 12px 0px !important;
+        width: 80% !important;
+        box-sizing: border-box !important;
+        border: none !important;
+        font-size: 16px !important;
+        color: #fff !important;
+    }
+
+        input:focus {
+            -moz-box-shadow: none !important;
+            -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+            outline-width: 0 !important;
+            font-weight: 400 !important;
+        }
+
+    ::placeholder {
+        color: #B0BEC5 !important;
+        opacity: 1 !important;
+    }
+
+    :-ms-input-placeholder {
+        color: #B0BEC5 !important;
+    }
+
+
+    .fa-search {
+        color: #607D8B;
+        background-color: #E1F5FE;
+        font-size: 20px;
+        padding: 20px;
+        width: 20%;
+        cursor: pointer;
+    }
+
+    .light-text {
+        color: #B0BEC5;
+    }
+
+    .suggestion:hover {
+        color: #fff;
+        cursor: pointer;
+    }
+
+    .line {
+        height: 1px;
+        background-color: #B0BEC5;
+    }
+
+    @@media screen and (max-width: 500px) {
+        .card1 {
+            padding-left: 26px;
+        }
+    }
+</style>
