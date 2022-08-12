@@ -34,7 +34,7 @@ namespace IT_Test.Controllers
          */
 
 
-        const string APIKey = "c11e0c7cb21bbbe31f6b0b7421502508";
+        const string APIKey = "xxxx";
 
         public ActionResult Index()
         {
